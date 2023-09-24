@@ -1,2 +1,3 @@
 # Fine-Tune-GPT2
-Fine tuned GPT2 for customized dataset.
+<b>Fine-tuned GPT2</b> for customized dataset using <b>Hugging Face's Transformer</b> library.
+
