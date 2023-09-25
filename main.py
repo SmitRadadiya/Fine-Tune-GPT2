@@ -43,7 +43,7 @@ model.resize_token_embeddings(len(tokenizer))
 
 model = model.to(device)
 
-# inp = 'Hi How are you!'
+# inp = 'Example tokens'
 # op = tokenizer.decode(model.generate(**tokenizer(inp, return_tensors='pt'))[0])
 # print(op)
 
